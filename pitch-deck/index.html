@@ -7,11 +7,11 @@
     <meta http-equiv="Pragma" content="no-cache">
     <meta http-equiv="Expires" content="0">
     <title>Sneaca - Pitch Deck Presentation</title>
-    <link rel="stylesheet" href="styles.css?v=16">
+    <link rel="stylesheet" href="styles.css?v=17">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&family=Playfair+Display:wght@700;900&display=swap" rel="stylesheet">
-    <script src="script.js?v=16" defer></script>
+    <script src="script.js?v=17" defer></script>
 </head>
 <body>
     <!-- Progress Bar -->
@@ -247,120 +247,149 @@
         <section class="slide" data-slide="5">
             <div class="slide-content">
                 <h2 class="slide-title">How the Problem is Solved Today</h2>
-                <p class="intro-text" style="text-align: center; font-size: 1.3rem; margin-bottom: 50px; color: #f5576c;">
-                    <strong>The brutal truth: Organizations that want custom footwear are forced to choose between bad options — or give up entirely.</strong>
+                <p class="intro-text" style="text-align: center; font-size: 1.3rem; margin-bottom: 40px; color: #f5576c;">
+                    <strong>Four bad options — or give up entirely.</strong>
                 </p>
 
-                <div style="display: grid; gap: 25px; margin-bottom: 40px;">
+                <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 25px; margin-bottom: 40px;">
                     <!-- Traditional Manufacturers -->
-                    <div style="background: linear-gradient(135deg, rgba(245, 87, 108, 0.12) 0%, rgba(240, 147, 251, 0.12) 100%); padding: 35px; border-radius: 18px; border-left: 6px solid #f5576c;">
-                        <div style="display: flex; justify-content: space-between; align-items: start; margin-bottom: 20px;">
-                            <div>
-                                <h3 style="color: #f5576c; font-size: 1.5rem; margin: 0 0 10px 0;">Option 1: Traditional Manufacturers</h3>
-                                <p style="font-size: 1rem; color: #aaa; margin: 0;">Alibaba, IndiaMART, Direct Factory Sourcing</p>
-                            </div>
-                            <span style="font-size: 3rem; line-height: 1;">❌</span>
+                    <div style="background: linear-gradient(135deg, rgba(245, 87, 108, 0.12) 0%, rgba(240, 147, 251, 0.12) 100%); padding: 28px; border-radius: 16px; border-left: 5px solid #f5576c;">
+                        <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 16px;">
+                            <h3 style="color: #f5576c; font-size: 1.3rem; margin: 0;">Traditional Manufacturers</h3>
+                            <span style="font-size: 2.5rem; line-height: 1;">❌</span>
                         </div>
-                        <div style="display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 20px; margin-bottom: 20px;">
-                            <div style="background: rgba(245, 87, 108, 0.15); padding: 16px; border-radius: 10px; text-align: center;">
-                                <div style="font-size: 1.8rem; font-weight: 800; color: #f5576c; margin-bottom: 5px;">1,000+</div>
-                                <div style="font-size: 0.85rem; color: #ddd;">Minimum Order</div>
+                        <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 12px; margin-bottom: 16px;">
+                            <div style="background: rgba(245, 87, 108, 0.15); padding: 12px; border-radius: 8px; text-align: center;">
+                                <div style="font-size: 1.5rem; font-weight: 800; color: #f5576c;">1,000+</div>
+                                <div style="font-size: 0.75rem; color: #ddd;">MOQ</div>
                             </div>
-                            <div style="background: rgba(245, 87, 108, 0.15); padding: 16px; border-radius: 10px; text-align: center;">
-                                <div style="font-size: 1.8rem; font-weight: 800; color: #f5576c; margin-bottom: 5px;">4-6 mo</div>
-                                <div style="font-size: 0.85rem; color: #ddd;">Lead Time</div>
+                            <div style="background: rgba(245, 87, 108, 0.15); padding: 12px; border-radius: 8px; text-align: center;">
+                                <div style="font-size: 1.5rem; font-weight: 800; color: #f5576c;">4-6mo</div>
+                                <div style="font-size: 0.75rem; color: #ddd;">Lead Time</div>
                             </div>
-                            <div style="background: rgba(245, 87, 108, 0.15); padding: 16px; border-radius: 10px; text-align: center;">
-                                <div style="font-size: 1.8rem; font-weight: 800; color: #f5576c; margin-bottom: 5px;">$50K+</div>
-                                <div style="font-size: 0.85rem; color: #ddd;">Upfront Cost</div>
+                            <div style="background: rgba(245, 87, 108, 0.15); padding: 12px; border-radius: 8px; text-align: center;">
+                                <div style="font-size: 1.5rem; font-weight: 800; color: #f5576c;">$50K+</div>
+                                <div style="font-size: 0.75rem; color: #ddd;">Upfront</div>
                             </div>
                         </div>
-                        <p style="font-size: 1.15rem; font-weight: 600; color: #f5576c; margin: 0; line-height: 1.6;">
-                            <strong>Why it fails:</strong> You're betting your entire budget on untested inventory that won't arrive until after your event is over. Most organizations can't afford the risk.
+                        <p style="font-size: 1rem; font-weight: 600; color: #f5576c; margin: 0; line-height: 1.5;">
+                            Too expensive, too slow, too risky for small batches.
                         </p>
                     </div>
 
                     <!-- Print-on-Demand -->
-                    <div style="background: linear-gradient(135deg, rgba(240, 147, 251, 0.12) 0%, rgba(245, 87, 108, 0.12) 100%); padding: 35px; border-radius: 18px; border-left: 6px solid #f093fb;">
-                        <div style="display: flex; justify-content: space-between; align-items: start; margin-bottom: 20px;">
-                            <div>
-                                <h3 style="color: #f093fb; font-size: 1.5rem; margin: 0 0 10px 0;">Option 2: Print-on-Demand Services</h3>
-                                <p style="font-size: 1rem; color: #aaa; margin: 0;">Printful, Printify, Zazzle</p>
-                            </div>
-                            <span style="font-size: 3rem; line-height: 1;">❌</span>
+                    <div style="background: linear-gradient(135deg, rgba(240, 147, 251, 0.12) 0%, rgba(245, 87, 108, 0.12) 100%); padding: 28px; border-radius: 16px; border-left: 5px solid #f093fb;">
+                        <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 16px;">
+                            <h3 style="color: #f093fb; font-size: 1.3rem; margin: 0;">Print-on-Demand</h3>
+                            <span style="font-size: 2.5rem; line-height: 1;">❌</span>
                         </div>
-                        <ul style="list-style: none; padding: 0; margin: 0 0 20px 0;">
-                            <li style="padding: 12px; background: rgba(240, 147, 251, 0.1); border-radius: 8px; margin-bottom: 10px; font-size: 1.05rem; color: #e0e0e0;">
-                                <strong style="color: #f093fb;">Limited to basic slip-ons</strong> — no true custom manufacturing
-                            </li>
-                            <li style="padding: 12px; background: rgba(240, 147, 251, 0.1); border-radius: 8px; margin-bottom: 10px; font-size: 1.05rem; color: #e0e0e0;">
-                                <strong style="color: #f093fb;">Poor quality materials</strong> — printed insoles and generic uppers
-                            </li>
-                            <li style="padding: 12px; background: rgba(240, 147, 251, 0.1); border-radius: 8px; font-size: 1.05rem; color: #e0e0e0;">
-                                <strong style="color: #f093fb;">Zero design freedom</strong> — can't customize construction, materials, or form
-                            </li>
-                        </ul>
-                        <p style="font-size: 1.15rem; font-weight: 600; color: #f093fb; margin: 0; line-height: 1.6;">
-                            <strong>Why it fails:</strong> You get a product you're embarrassed to give away. It screams "cheap" instead of "custom." Your brand deserves better.
+                        <p style="font-size: 1rem; color: #e0e0e0; margin-bottom: 16px; line-height: 1.6;">
+                            Basic slip-ons with printed insoles. Poor quality materials. Zero design freedom.
+                        </p>
+                        <p style="font-size: 1rem; font-weight: 600; color: #f093fb; margin: 0; line-height: 1.5;">
+                            Embarrassingly cheap — screams "generic" not "custom."
                         </p>
                     </div>
 
                     <!-- Promotional Distributors -->
-                    <div style="background: linear-gradient(135deg, rgba(102, 126, 234, 0.12) 0%, rgba(118, 75, 162, 0.12) 100%); padding: 35px; border-radius: 18px; border-left: 6px solid #667eea;">
-                        <div style="display: flex; justify-content: space-between; align-items: start; margin-bottom: 20px;">
-                            <div>
-                                <h3 style="color: #667eea; font-size: 1.5rem; margin: 0 0 10px 0;">Option 3: Promotional Distributors</h3>
-                                <p style="font-size: 1rem; color: #aaa; margin: 0;">4imprint, Vistaprint, Custom Ink</p>
-                            </div>
-                            <span style="font-size: 3rem; line-height: 1;">❌</span>
+                    <div style="background: linear-gradient(135deg, rgba(102, 126, 234, 0.12) 0%, rgba(118, 75, 162, 0.12) 100%); padding: 28px; border-radius: 16px; border-left: 5px solid #667eea;">
+                        <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 16px;">
+                            <h3 style="color: #667eea; font-size: 1.3rem; margin: 0;">Promo Distributors</h3>
+                            <span style="font-size: 2.5rem; line-height: 1;">❌</span>
                         </div>
-                        <ul style="list-style: none; padding: 0; margin: 0 0 20px 0;">
-                            <li style="padding: 12px; background: rgba(102, 126, 234, 0.1); border-radius: 8px; margin-bottom: 10px; font-size: 1.05rem; color: #e0e0e0;">
-                                <strong style="color: #667eea;">Pre-made generic shoes</strong> with basic logo embroidery or screen printing
-                            </li>
-                            <li style="padding: 12px; background: rgba(102, 126, 234, 0.1); border-radius: 8px; margin-bottom: 10px; font-size: 1.05rem; color: #e0e0e0;">
-                                <strong style="color: #667eea;">No customization</strong> — you're stuck with whatever's in their catalog
-                            </li>
-                            <li style="padding: 12px; background: rgba(102, 126, 234, 0.1); border-radius: 8px; font-size: 1.05rem; color: #e0e0e0;">
-                                <strong style="color: #667eea;">Same shoes as everyone else</strong> — zero differentiation
-                            </li>
-                        </ul>
-                        <p style="font-size: 1.15rem; font-weight: 600; color: #667eea; margin: 0; line-height: 1.6;">
-                            <strong>Why it fails:</strong> This isn't custom footwear — it's a generic product with your logo slapped on. Your community won't feel special.
+                        <p style="font-size: 1rem; color: #e0e0e0; margin-bottom: 16px; line-height: 1.6;">
+                            Pre-made generic shoes with basic logo embroidery. Stuck with catalog options.
+                        </p>
+                        <p style="font-size: 1rem; font-weight: 600; color: #667eea; margin: 0; line-height: 1.5;">
+                            Same shoes as everyone else — zero differentiation.
                         </p>
                     </div>
 
                     <!-- Do Nothing -->
-                    <div style="background: linear-gradient(135deg, rgba(79, 172, 254, 0.12) 0%, rgba(0, 242, 254, 0.12) 100%); padding: 35px; border-radius: 18px; border-left: 6px solid #4facfe;">
-                        <div style="display: flex; justify-content: space-between; align-items: start; margin-bottom: 20px;">
-                            <div>
-                                <h3 style="color: #4facfe; font-size: 1.5rem; margin: 0 0 10px 0;">Option 4: Give Up on Footwear</h3>
-                                <p style="font-size: 1rem; color: #aaa; margin: 0;">Stick to t-shirts, hats, and tote bags</p>
-                            </div>
-                            <span style="font-size: 3rem; line-height: 1;">❌</span>
+                    <div style="background: linear-gradient(135deg, rgba(79, 172, 254, 0.12) 0%, rgba(0, 242, 254, 0.12) 100%); padding: 28px; border-radius: 16px; border-left: 5px solid #4facfe;">
+                        <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 16px;">
+                            <h3 style="color: #4facfe; font-size: 1.3rem; margin: 0;">Give Up on Footwear</h3>
+                            <span style="font-size: 2.5rem; line-height: 1;">❌</span>
                         </div>
-                        <p style="font-size: 1.15rem; color: #e0e0e0; margin-bottom: 20px; line-height: 1.7;">
-                            Most organizations choose this path. They order more custom t-shirts and call it a day. But they know they're <strong style="color: #4facfe;">missing something special</strong>.
+                        <p style="font-size: 1rem; color: #e0e0e0; margin-bottom: 16px; line-height: 1.6;">
+                            Stick to t-shirts and hats. Most organizations choose this path.
                         </p>
-                        <p style="font-size: 1.15rem; font-weight: 600; color: #4facfe; margin: 0; line-height: 1.6;">
-                            <strong>Why it fails:</strong> Footwear creates emotional connection in a way apparel can't. You wear it every day. You miss the premium positioning, the storytelling power, and the "wow factor" your community deserves.
+                        <p style="font-size: 1rem; font-weight: 600; color: #4facfe; margin: 0; line-height: 1.5;">
+                            Miss the premium positioning and emotional connection footwear creates.
                         </p>
                     </div>
                 </div>
 
-                <div style="background: linear-gradient(135deg, rgba(245, 87, 108, 0.25) 0%, rgba(79, 172, 254, 0.25) 100%); padding: 45px; border-radius: 20px; text-align: center; border: 4px solid rgba(245, 87, 108, 0.5); box-shadow: 0 10px 40px rgba(245, 87, 108, 0.3);">
-                    <p style="font-size: 1.8rem; font-weight: 800; color: white; margin: 0 0 15px 0; line-height: 1.4;">
+                <div style="background: linear-gradient(135deg, rgba(245, 87, 108, 0.25) 0%, rgba(79, 172, 254, 0.25) 100%); padding: 40px; border-radius: 18px; text-align: center; border: 4px solid rgba(245, 87, 108, 0.5); box-shadow: 0 10px 40px rgba(245, 87, 108, 0.3);">
+                    <p style="font-size: 1.7rem; font-weight: 800; color: white; margin: 0 0 12px 0; line-height: 1.3;">
                         For small-batch custom footwear (50-500 pairs),<br>there is <span style="color: #f5576c; text-decoration: underline;">NO good solution today.</span>
                     </p>
-                    <p style="font-size: 1.4rem; font-weight: 600; color: #4facfe; margin: 0;">
+                    <p style="font-size: 1.3rem; font-weight: 600; color: #4facfe; margin: 0;">
                         This is the gap Sneaca fills.
                     </p>
                 </div>
             </div>
         </section>
 
-        <!-- Slide 6: Target Customers -->
+        <!-- Slide 6: Market Size -->
         <section class="slide" data-slide="6">
+            <div class="slide-content">
+                <h2 class="slide-title">Market Size</h2>
+
+                <div class="market-funnel">
+                    <div class="funnel-level tam">
+                        <h3>TAM: $5.1 Billion</h3>
+                        <p>Global promotional products market (North America focus)</p>
+                        <p>Custom apparel and merchandise segment • Growing 7% annually</p>
+                    </div>
+                    <div class="funnel-level sam">
+                        <h3>SAM: $850 Million</h3>
+                        <p>Organizations ordering 50-2,000 units of custom merchandise</p>
+                        <p>Footwear as premium merchandise category</p>
+                    </div>
+                    <div class="funnel-level som">
+                        <h3>SOM: $15-20 Million (Year 1-3)</h3>
+                        <p>Vancouver + Canadian markets initially</p>
+                    </div>
+                </div>
+
+                <div class="market-breakdown">
+                    <div class="breakdown-col">
+                        <h4>Primary (Year 1):</h4>
+                        <div class="market-item">
+                            <p><strong>FIFA Communities (Vancouver)</strong></p>
+                            <p>5 capsules × $40-60K = $200-300K</p>
+                        </div>
+                        <div class="market-item">
+                            <p><strong>Corporations & Startups</strong></p>
+                            <p>30-50 companies × $15-25K = $450-750K</p>
+                        </div>
+                        <div class="market-item">
+                            <p><strong>Hospitality & Tourism</strong></p>
+                            <p>20-30 venues × $10-20K = $200-400K</p>
+                        </div>
+                    </div>
+                    <div class="breakdown-col">
+                        <h4>Unit Economics:</h4>
+                        <ul>
+                            <li>Average order value: $2,500-$3,500</li>
+                            <li>Target: 150-200 orders in Year 1</li>
+                            <li>Revenue: $375K-$700K</li>
+                        </ul>
+                        <h4 style="margin-top: 20px;">Why This Market?</h4>
+                        <ul>
+                            <li>Underserved (no viable solution exists)</li>
+                            <li>Proven demand (custom apparel validates willingness to pay)</li>
+                            <li>Premium positioning (2-3x higher prices than apparel)</li>
+                            <li>High retention (customers order 2-3× per year)</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Slide 7: Target Customers -->
+        <section class="slide" data-slide="7">
             <div class="slide-content">
                 <h2 class="slide-title">Our Target Customers</h2>
 
@@ -415,8 +444,8 @@
             </div>
         </section>
 
-        <!-- Slide 7: Market Validation -->
-        <section class="slide" data-slide="7">
+        <!-- Slide 8: Market Validation -->
+        <section class="slide" data-slide="8">
             <div class="slide-content">
                 <h2 class="slide-title">Market Validation: Red Thread Club</h2>
 
@@ -468,8 +497,8 @@
             </div>
         </section>
 
-        <!-- Slide 8: How It Works -->
-        <section class="slide" data-slide="8">
+        <!-- Slide 9: How It Works -->
+        <section class="slide" data-slide="9">
             <div class="slide-content">
                 <h2 class="slide-title">How It Works</h2>
 
@@ -493,8 +522,8 @@
             </div>
         </section>
 
-        <!-- Slide 9: Why Now -->
-        <section class="slide" data-slide="9">
+        <!-- Slide 10: Why Now -->
+        <section class="slide" data-slide="10">
             <div class="slide-content">
                 <h2 class="slide-title">Why Now?</h2>
                 <p class="intro-text">Three converging forces make this the perfect moment:</p>
@@ -546,63 +575,6 @@
 
                 <div class="why-matters">
                     <p><strong>FIFA 2026 gives us a defined moment</strong> to prove our model with high visibility, passionate communities, and concentrated demand. It's the perfect ignition point.</p>
-                </div>
-            </div>
-        </section>
-
-        <!-- Slide 10: Market Opportunity -->
-        <section class="slide" data-slide="10">
-            <div class="slide-content">
-                <h2 class="slide-title">Market Opportunity</h2>
-
-                <div class="market-funnel">
-                    <div class="funnel-level tam">
-                        <h3>TAM: $5.1 Billion</h3>
-                        <p>Global promotional products market (North America focus)</p>
-                        <p>Custom apparel and merchandise segment • Growing 7% annually</p>
-                    </div>
-                    <div class="funnel-level sam">
-                        <h3>SAM: $850 Million</h3>
-                        <p>Organizations ordering 50-2,000 units of custom merchandise</p>
-                        <p>Footwear as premium merchandise category</p>
-                    </div>
-                    <div class="funnel-level som">
-                        <h3>SOM: $15-20 Million (Year 1-3)</h3>
-                        <p>Vancouver + Canadian markets initially</p>
-                    </div>
-                </div>
-
-                <div class="market-breakdown">
-                    <div class="breakdown-col">
-                        <h4>Primary (Year 1):</h4>
-                        <div class="market-item">
-                            <p><strong>FIFA Communities (Vancouver)</strong></p>
-                            <p>5 capsules × $40-60K = $200-300K</p>
-                        </div>
-                        <div class="market-item">
-                            <p><strong>Corporations & Startups</strong></p>
-                            <p>30-50 companies × $15-25K = $450-750K</p>
-                        </div>
-                        <div class="market-item">
-                            <p><strong>Hospitality & Tourism</strong></p>
-                            <p>20-30 venues × $10-20K = $200-400K</p>
-                        </div>
-                    </div>
-                    <div class="breakdown-col">
-                        <h4>Unit Economics:</h4>
-                        <ul>
-                            <li>Average order value: $2,500-$3,500</li>
-                            <li>Target: 150-200 orders in Year 1</li>
-                            <li>Revenue: $375K-$700K</li>
-                        </ul>
-                        <h4 style="margin-top: 20px;">Why This Market?</h4>
-                        <ul>
-                            <li>Underserved (no viable solution exists)</li>
-                            <li>Proven demand (custom apparel validates willingness to pay)</li>
-                            <li>Premium positioning (2-3x higher prices than apparel)</li>
-                            <li>High retention (customers order 2-3× per year)</li>
-                        </ul>
-                    </div>
                 </div>
             </div>
         </section>
