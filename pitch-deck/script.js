@@ -381,7 +381,7 @@ class PresentationAnalytics {
 
     init() {
         this.trackSlideChanges();
-        this.trackPresentation Duration();
+        this.trackPresentationDuration();
 
         // Log analytics on presentation end
         window.addEventListener('beforeunload', () => {
