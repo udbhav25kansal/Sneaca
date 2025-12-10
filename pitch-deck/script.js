@@ -404,6 +404,7 @@ class PresentationAnalytics {
 
     trackPresentationDuration() {
         // Already handled by main timer
+        return;
     }
 
     logAnalytics() {
