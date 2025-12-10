@@ -5,7 +5,7 @@
 class PitchDeck {
     constructor() {
         this.currentSlide = 1;
-        this.totalSlides = 12;
+        this.totalSlides = 14;
         this.startTime = null;
         this.timerInterval = null;
         this.isTimerRunning = false;
@@ -490,7 +490,7 @@ window.SneacaPitchDeck = {
     description: 'Sneaca Pitch Deck Presentation System',
     author: 'Sneaca Team',
     features: {
-        slides: 12,
+        slides: 14,
         keyboardNavigation: true,
         touchSupport: true,
         timer: true,
