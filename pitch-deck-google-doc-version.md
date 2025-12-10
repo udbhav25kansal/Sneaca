@@ -46,6 +46,8 @@ My family owns one of the largest shoe manufacturing facilities in India. We hav
 
 Custom merchandise is ubiquitous — except for footwear.
 
+![The Custom Merchandise Gap - Accessible custom merch vs. inaccessible custom footwear](problem-custom-footwear-accessibility-gap.png)
+
 ### Comparison:
 - ✓ **Custom T-Shirts:** 25-50 MOQ • 7-14 days
 - ✓ **Custom Hats:** 25-50 MOQ • 7-14 days
@@ -117,42 +119,196 @@ None of these alternatives are good:
 
 ---
 
-## Slide 6: How Sneaca Works
+## Slide 6: Our Solution — What We Built
 
-### Step 1: Design & Proof (72 hours)
-- Client submits concept or we help design
-- Full design mockups using AI visualization
-- Client approves design direction
-- **Output:** Production-ready design proof in 3 days
+### What Was Impossible Is Now Possible
 
-### Step 2: Pre-Production Sample (10 days)
-- Physical sample shoe created
-- Client tests fit, quality, materials
-- Final adjustments if needed
-- Deposit secures production slot
-- **Output:** Physical sample to validate before bulk production
+**We created the first turnkey system that makes custom footwear accessible at small volumes — transforming what was once a $50,000, 120-day barrier into a simple 50-pair, 45-day reality.**
 
-### Step 3: Manufacturing & Delivery (30-45 days)
-- Bulk production at family facility in India
-- Quality assurance (98.5%+ First Pass Yield)
-- Air or sea shipping to Canada/US
-- White-glove delivery to client
-- **Output:** 40-2,000 pairs delivered on time
+---
 
-### Product Portfolio (Phase 1):
-- Low-top sneakers
-- Slip-ons
-- Slides
-- Court-style shoes
-- Casual runners
+### Who Benefits & How
 
-### Customization Options:
-- Full-panel prints
-- Custom patches & overlays
-- Embroidery
-- Laser-printed logos/names
-- Custom lace & eyelet colors
+#### 1. **Communities & Associations** (Tech groups, running clubs, cultural organizations)
+- **Get:** Matching custom shoes that create visual unity and belonging
+- **Benefit:** Turn 50-200 members into a walking billboard of community pride
+- **Example:** Brazilian community in Vancouver ordering 500 pairs for FIFA 2026
+
+#### 2. **Corporations & Startups** (50-500 employees)
+- **Get:** Unique employee perks and conference swag that stands out
+- **Benefit:** "Not just another t-shirt" — memorable brand moments that employees actually wear
+- **Example:** Tech company ordering 100 pairs for company-wide shoe drop
+
+#### 3. **Hospitality & Tourism** (Hotels, restaurants, spas, attractions)
+- **Get:** Branded guest amenities and staff uniforms that elevate experience
+- **Benefit:** Premium positioning and additional retail revenue stream
+- **Example:** 4-star hotel offering custom slides in every guest room
+
+#### 4. **Universities & Athletics** (Bookstores, teams, clubs)
+- **Get:** Spirit wear and team merchandise beyond standard apparel
+- **Benefit:** Higher-margin products that students and alumni actually want
+- **Example:** UBC Bookstore stocking faculty-specific custom sneakers
+
+#### 5. **Events & Conferences** (1,000-10,000 attendees)
+- **Get:** VIP gifts and sponsor activations that create social media moments
+- **Benefit:** Higher perceived value than standard swag — attendees post "sneaker selfies"
+- **Example:** Tech conference gifting 200 pairs to speakers and VIPs
+
+#### 6. **Digital Influencers & Creators** (50k-1M followers)
+- **Get:** Their own footwear line without $50K+ investment
+- **Benefit:** High-margin product (sell at $80-150, cost $40-60) that builds brand credibility
+- **Example:** Fitness influencer launching limited-edition recovery slides (200 pairs)
+
+---
+
+### How We Make It Possible: Our Unfair Advantage
+
+**This isn't a business model innovation — it's a manufacturing capability breakthrough.**
+
+#### The "Impossible" Challenge:
+Custom footwear in small batches requires:
+- Flexible production lines willing to run <1,000 pairs (most factories refuse)
+- Technical expertise in shoe construction and quality control
+- Speed without sacrificing quality
+- Predictable costs at low volumes
+
+**Most startups spend years trying to find a factory partner. We already own the access.**
+
+#### Our Moat (Cannot Be Replicated):
+
+**1. Exclusive Manufacturing Access**
+- My father owns one of India's largest shoe manufacturing facilities
+- I have **exclusive North American rights** to this world-class, just-in-time production
+- **21 years of built trust** — guaranteed capacity, priority production, cost advantages
+- Access to the **world's most advanced automated flip-flop production line**
+
+**2. Deep Domain Expertise**
+- 3 years hands-on footwear manufacturing experience
+- Trained by **Arc'teryx founders** (world-class footwear makers)
+- Facilitated Shoes × MistyWest collaboration
+- AI implementation consulting for manufacturing
+- Understanding of both design innovation AND production operations
+
+**3. Small-Batch SOPs Built Over Years**
+- Purpose-built processes for 40-2,000 pair runs
+- Most factories optimize for 5,000+ pairs
+- Our sweet spot is where competitors have a gap
+
+**4. Speed + Quality Combination**
+- **45-day delivery** with ≥98.5% First Pass Yield
+- Competitors: fast OR quality, not both
+- **Proven:** Red Thread Club pilot delivered in 7 days with 70% gross margin
+
+---
+
+### What Customers Get: The Complete Service
+
+#### Design-to-Door in 45 Days:
+
+**Step 1: Design Proof (72 hours)**
+- AI-powered mockups and realistic 3D renders
+- 2-3 design concepts with 2 revision rounds
+- Production-ready tech pack
+
+**Step 2: Pre-Production Sample (10 days)**
+- Physical sample shoe created and shipped
+- Client tests fit, quality, materials before committing to production
+- Zero risk — see exactly what you'll get
+
+**Step 3: Manufacturing & Delivery (30-45 days)**
+- Bulk production at family facility
+- ≥98.5% First Pass Yield quality assurance
+- Air freight to Canada/US
+- White-glove delivery
+
+**Total: 45 days from concept to wearing custom shoes**
+
+---
+
+### Product Range
+
+#### Phase 1 (Now):
+- Low-top sneakers (40-pair minimum)
+- Slip-ons (40-pair minimum)
+- Court-style sneakers (40-pair minimum)
+- Slides & flip-flops (50-pair minimum)
+
+#### Customization Power:
+- Full-panel custom printing (any design, unlimited colors)
+- Custom patches, overlays, and 3D elements
+- Embroidery (logos and text)
+- Laser-printed individual names/numbers
+- Custom lace colors and eyelets
 - Branded packaging boxes
+
+**No design limitations. No generic templates. True custom manufacturing.**
+
+---
+
+### Intellectual Property & Patents
+
+**Patent Status:** No patents or patent applications
+
+**Why:** This is not a technology or product invention — it's an **access-based business model** powered by exclusive manufacturing relationships that cannot be patented.
+
+**Our defensibility comes from:**
+1. **Exclusive manufacturing rights** (contractual, not patent-based)
+2. **21-year family relationship** (trust-based, not replicable)
+3. **Domain expertise** (experience-based, not protectable)
+4. **Just-in-time production capability** (operational advantage)
+
+**UBC IP:** No UBC intellectual property involved — all manufacturing relationships and expertise pre-date any UBC affiliation.
+
+---
+
+### Proof: Already Validated
+
+**Red Thread Club Pilot (Our First Customer):**
+- **$600 revenue** in custom flip-flops
+- **70% gross margin** (exceptional unit economics)
+- **7-day delivery** (demolished our 45-day standard)
+- **100% customer satisfaction** — validated design, quality, and service
+
+**This isn't theoretical. We've done it. We can scale it.**
+
+---
+
+### Why This Matters: The Transformation
+
+**Before Sneaca:**
+- Want custom shoes for your 100-person community? Impossible.
+- Want to launch a footwear line with 200 pairs? Not happening.
+- Want hotel guest amenities that aren't generic? Too expensive.
+
+**With Sneaca:**
+- **50 pairs minimum** — accessible to small groups
+- **45 days delivery** — fast enough for events and launches
+- **$60/pair sneakers, $30/pair flip-flops** — premium but affordable
+- **Turnkey service** — we handle design, manufacturing, quality, logistics
+
+**We didn't just improve custom footwear. We made it possible.**
+
+---
+
+### Visual: Customer Journey Transformation
+
+![The Custom Merchandise Gap](problem-custom-footwear-accessibility-gap.png)
+
+**The gap we're closing:** Making custom footwear as accessible as custom t-shirts.
+
+---
+
+## Key Takeaway
+
+**Sneaca isn't selling shoes — we're selling solidarity, identity, and belonging.**
+
+When a community wears matching custom shoes:
+- They feel connected to something bigger
+- They create memorable shared experiences
+- They show pride in their group
+- They build lasting bonds
+
+**And now, for the first time, they actually can.**
 
 ---
 
